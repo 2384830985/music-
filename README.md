@@ -1,7 +1,7 @@
 # newapp
 
 > 一个新项目
-
+https://2384830985.github.io/music/index.html#/music  demo
 ## Build Setup
 
 ``` bash
